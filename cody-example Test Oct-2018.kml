@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Crandall Drone Test Oct-2018</name>
+    <description>sample data from drone flight up crandall to cow creek.  october 30, 2018</description>
+    <Style id="icon-1899-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-labelson-nodesc">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-labelson">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-labelson-nodesc">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson-nodesc">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6462656,44.8424396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6646334,44.8475515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6878077,44.8507157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7111536,44.8537581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <description>TAG13372 -112dBm;</description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7348429,44.8540015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <description><![CDATA[TAG13372 -112dBm;<br>TAG18554 -16dBm;<br>TAG17433 -48dBm;]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7581889,44.863006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <description><![CDATA[TAG13372 -83dBm;<br>TAG17433 -82dBm;<br>TAG12991 -55dBm;<br>TAG19442 -48dBm;]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7633387,44.8711575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <description><![CDATA[TAG13372 -13dBm;<br>TAG17433 -102dBm;<br>TAG12991 -65dBm;]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7672869,44.8818622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7</name>
+        <description><![CDATA[TAG13372 -43dBm;<br>TAG17433 -112dBm;<br>TAG12991 -85dBm;<br>TAG19442 -18dBm;<br>TAG16372 -43dBm;<br>TAG17733 -42dBm;<br>TAG12891 -55dBm;]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7830798,44.8872138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8</name>
+        <description><![CDATA[TAG13372 -13dBm;<br>TAG17433 -92dBm;<br>TAG12991 -65dBm;<br>TAG19442 -58dBm;<br>TAG16372 -73dBm;<br>TAG17733 -82dBm;<br>TAG12891 -95dBm;<br>TAG19942 -98dBm;]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7987009,44.8791862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7</name>
+        <description><![CDATA[TAG17433 -92dBm;<br>TAG12991 -65dBm;<br>TAG19442 -58dBm;<br>TAG16372 -73dBm;<br>TAG17733 -82dBm;<br>TAG12891 -95dBm;<br>TAG19942 -98dBm;]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.8047091,44.8647094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <description><![CDATA[TAG17433 -65dBm;<br>TAG16372 -58dBm;<br>TAG12891 -73dBm;<br>TAG19942 -61dBm;]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.806769,44.8550967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <description><![CDATA[TAG17433 -75dBm;<br>TAG16372 -68dBm;<br>TAG12891 -71dBm;<br>TAG19942 -68dBm; TAG19442 -54dBm;]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7957827,44.8540015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <styleUrl>#icon-1899-0097A7-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7835947,44.8520544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7726084,44.8457259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#icon-1899-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7667719,44.8389097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#icon-1899-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7640253,44.8306319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#icon-1899-FFEA00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7621371,44.8211353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#icon-1899-FFEA00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7585322,44.8126114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#icon-1899-FFEA00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7465159,44.8078618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7271181,44.8061568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.710467,44.8040862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.7054888,44.8140728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <description>TAG13733 -32dBm;</description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6951891,44.8236923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6809412,44.8325798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6514155,44.8385446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
