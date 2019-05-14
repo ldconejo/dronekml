@@ -1,0 +1,23 @@
+need a CSV file showing each tag seen (in the entire record), and what GPS coordinates it was seen at and the signal strength at that location.
+
+from the example file:
+
+name				
+TAG13372	44.854	-109.73484	 -112dBm	
+	44.863	-109.75818	 -112dBm	
+	44.87115	-109.76333	 -83dBm	
+	44.88186	-109.76728	 -13dBm	
+	44.88721	-109.78307	 -43dBm	
+	44.87918	-109.7987	 -13dBm	
+				
+TAG18554	44.863	-109.75818	 -16dBm	
+				
+TAG17433	44.863	-109.75818	 -48dBm	
+	44.87115	-109.76333	 -82dBm	
+	44.88186	-109.76728	 -102dBm	
+	44.88721	-109.78307	 -112dBm	
+	44.87918	-109.7987	 -92dBm	
+	44.8647	-109.8047	 -92dBm	
+	44.85509	-109.80676	 -65dBm	
+	44.854	-109.79578	 -75dBm	
+				
